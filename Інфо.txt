@@ -1,0 +1,175 @@
+﻿[PLUGIN DETAILS]
+Console level........................... : INFO (1)
+Console size............................ : 4.34 KB
+Last Migration Run...................... : 2020-02-15 14:34
+Last Rating Count....................... : 2020-02-15 14:34
+Version (current)....................... : 4.4.0
+Version (previous)...................... : 0.0.0
+
+[BROWSER DETAILS]
+Browser Name............................ : Chrome 113.0.0.0
+Browser UA.............................. : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+[SERVER DETAILS]
+Host Name............................... : ave8.mysql.tools,landingpage.udlis.com (176.227.245.38)
+MySQL Version........................... : 5.7.41
+PHP Version............................. : 7.4.33
+Server Software......................... : Apache
+
+[PHP CONFIGURATION]
+cURL.................................... : true
+Default Charset......................... : UTF-8
+Display Errors.......................... : On (1)
+fsockopen............................... : true
+Intl.................................... : 7.4.33
+IPv6.................................... : true
+Max Execution Time...................... : 30
+Max Input Nesting Level................. : 64
+Max Input Vars.......................... : 1000
+Memory Limit............................ : 1536M
+Post Max Size........................... : 1000M
+Sendmail Path........................... : /usr/sbin/sendmail -t -i
+Session Cookie Path..................... : /
+Session Name............................ : PHPSESSID
+Session Save Path....................... : /home/ave8/.system/tmp
+Session Use Cookies..................... : true
+Session Use Only Cookies................ : false
+Upload Max Filesize..................... : 1000M
+
+[WORDPRESS CONFIGURATION]
+Active Theme............................ : Realty v3.0
+Email Domain............................ : udlis.pro
+Home URL................................ : https://landingpage.udlis.com
+Language................................ : uk
+Memory Limit............................ : 40M
+Multisite............................... : false
+Page For Posts ID....................... : 183
+Page On Front ID........................ : 167
+Permalink Structure..................... : /%postname%/
+Post Stati.............................. : publish, future, draft, pending, private, trash, auto-draft, inherit, request-pending, request-confirmed, request-failed, request-completed, acf-disabled, flamingo-spam
+Remote Post............................. : Works
+Show On Front........................... : page
+Site URL................................ : https://landingpage.udlis.com
+Timezone................................ : Europe/Kiev (PHP)
+Version................................. : 6.2.2
+WP Debug................................ : true
+WP Max Upload Size...................... : 1 000 МБ
+WP Memory Limit......................... : 40M
+
+[ACTIVE PLUGINS]
+Advanced Custom Fields PRO v5.8.7................ : advanced-custom-fields-pro/acf.php
+All-in-One WP Migration Unlimited Extension v2.50 : all-in-one-wp-migration-unlimited-extension/all-in-one-wp-migration-unlimited-extension.php
+All-in-One WP Migration v7.74.................... : all-in-one-wp-migration/all-in-one-wp-migration.php
+CategoryTinymce v3.8.1........................... : categorytinymce/categorytinymce.php
+Cyr to Lat enhanced v3.5......................... : cyr3lat/cyr-to-lat.php
+Disable All WordPress Updates v1.6.6............. : disable-wordpress-updates/disable-updates.php
+Flamingo v2.1.1.................................. : flamingo/flamingo.php
+HH sortable ID columns v2.0.2.................... : hh-sortable/hh_admin_id_columns.php
+Loco Translate v2.3.1............................ : loco-translate/loco.php
+Markup (JSON-LD) structured in schema.org v4.7.0. : wp-structuring-markup/wp-structuring-markup.php
+Polylang v2.6.9.................................. : polylang/polylang.php
+Post Duplicator v2.20............................ : post-duplicator/m4c-postduplicator.php
+Realty Core v1.0................................. : realty-core/realty-core.php
+Redux Framework v3.6.17.......................... : redux-framework/redux-framework.php
+Site Reviews v4.4.0.............................. : site-reviews/site-reviews.php
+Slider Revolution v6.5.22........................ : revslider/revslider.php
+Smush Nonstop v2.0.0............................. : wp-nonstop-smushit/wp-nonstop-smushit.php
+Smush v3.4.2..................................... : wp-smushit/wp-smush.php
+Templatera v1.1.11............................... : templatera/templatera.php
+Thumbs Rating v3.4.2............................. : thumbs-rating/thumbs-rating.php
+Ultimate Addons for WPBakery Page Builder v3.19.3 : Ultimate_VC_Addons/Ultimate_VC_Addons.php
+WPBakery Page Builder v6.1....................... : js_composer/js_composer.php
+WP File Manager v7.1.9........................... : wp-file-manager/file_folder_manager.php
+Yoast SEO Premium v12.9.1........................ : wordpress-seo-premium/wp-seo-premium.php
+
+[INACTIVE PLUGINS]
+All In One WP Security v4.4.3..................................... : all-in-one-wp-security-and-firewall/wp-security.php
+AnyComment v0.0.99................................................ : anycomment/anycomment.php
+Autoptimize v2.6.1................................................ : autoptimize/autoptimize.php
+BackWPup v3.7.0................................................... : backwpup/backwpup.php
+BizReview - Business and google Place Review WordPress Plugin v1.0 : bizreview/bizreview.php
+Booking Calendar v9.6.2........................................... : booking/wpdev-booking.php
+Classic Editor v1.6.3............................................. : classic-editor/classic-editor.php
+Contact Form 7 v5.1.6............................................. : contact-form-7/wp-contact-form-7.php
+Easy Cookies Policy v1.6.2........................................ : easy-cookies-policy/easy-cookies-policy.php
+Elementor Header & Footer Builder v1.6.13......................... : header-footer-elementor/header-footer-elementor.php
+Elementor v3.13.1................................................. : elementor/elementor.php
+ElementsKit Lite v2.8.8........................................... : elementskit-lite/elementskit-lite.php
+Extensive VC Addons v1.8.1........................................ : extensive-vc-addon/extensive-vc.php
+Final Tiles Grid Gallery - Image Gallery v3.4.18.................. : final-tiles-grid-gallery-lite/FinalTilesGalleryLite.php
+Gum Elementor Addon v1.2.22....................................... : gum-elementor-addon/gum-elementor-addon.php
+JetSticky For Elementor v1.0.3.................................... : jetsticky-for-elementor/jetsticky-for-elementor.php
+Max Mega Menu v2.7.4.............................................. : megamenu/megamenu.php
+Menu Icons v0.12.2................................................ : menu-icons/menu-icons.php
+MetForm v3.3.2.................................................... : metform/metform.php
+Premium Addons for Elementor v4.9.55.............................. : premium-addons-for-elementor/premium-addons-for-elementor.php
+Realty - Custom Post Types And Taxonomies v....................... : realty-custom-post-types-and-taxonomies/realty-custom-post-types-and-taxonomies.php
+Template Kit Import v1.0.14....................................... : template-kit-import/template-kit-import.php
+Test Course v1.0.0................................................ : test-course/test-course.php
+WebP Express v0.17.3.............................................. : webp-express/webp-express.php
+Widget Logic v5.10.4.............................................. : widget-logic/widget_logic.php
+WP All Export v1.2.5.............................................. : wp-all-export/wp-all-export.php
+WP All Import Pro v4.5.4.......................................... : wp-all-import-pro/wp-all-import-pro.php
+WP Cloudy v4.4.7.................................................. : wp-cloudy/wpcloudy.php
+WP Hide & Security Enhancer v2.0.6................................ : wp-hide-security-enhancer/wp-hide.php
+
+[PLUGIN SETTINGS]
+general.multilingual.................... : polylang
+general.notification_email.............. : 
+general.notification_message............ : <strong>A new {review_rating}-star review has been submitted:</strong>\n{review_title}\n{review_content}\n{review_author} <{review_email}> - {review_ip}\n{review_link}
+general.notification_slack.............. : 
+general.notifications................... : [admin]
+general.rebusify........................ : no
+general.rebusify_email.................. : travelkarpaty.in.ua@gmail.com
+general.rebusify_serial................. : •••••••••••••
+general.require.approval................ : yes
+general.require.login................... : no
+general.require.login_register.......... : yes
+general.style........................... : default
+licenses................................ : []
+reviews.assigned_links.................. : no
+reviews.avatars......................... : no
+reviews.avatars_regenerate.............. : no
+reviews.avatars_size.................... : 40
+reviews.date.custom..................... : d/m/Y
+reviews.date.format..................... : 
+reviews.excerpts........................ : yes
+reviews.excerpts_length................. : 55
+reviews.fallback........................ : yes
+reviews.name.format..................... : first
+reviews.name.initial.................... : 
+schema.address.......................... : 
+schema.description.custom............... : 
+schema.description.default.............. : post
+schema.highprice........................ : 
+schema.image.custom..................... : webadmin
+schema.image.default.................... : post
+schema.lowprice......................... : 
+schema.name.custom...................... : 
+schema.name.default..................... : post
+schema.offertype........................ : AggregateOffer
+schema.price............................ : 
+schema.pricecurrency.................... : 
+schema.pricerange....................... : 
+schema.telephone........................ : 
+schema.type.custom...................... : 
+schema.type.default..................... : LocalBusiness
+schema.url.custom....................... : 
+schema.url.default...................... : post
+strings................................. : []
+submissions.akismet..................... : no
+submissions.blacklist.action............ : unapprove
+submissions.blacklist.entries........... : 
+submissions.blacklist.integration....... : 
+submissions.limit....................... : username
+submissions.limit_whitelist.email....... : 
+submissions.limit_whitelist.ip_address.. : 
+submissions.limit_whitelist.username.... : 
+submissions.recaptcha.integration....... : 
+submissions.recaptcha.key............... : •••••••••••••
+submissions.recaptcha.position.......... : bottomleft
+submissions.recaptcha.secret............ : •••••••••••••
+submissions.required.................... : [rating, content, name, email, terms]
+
+[REVIEW COUNTS]
+local................................... : 0 (0, 0, 0, 0, 0, 0)
