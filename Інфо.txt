@@ -1,5 +1,4 @@
-﻿[PLUGIN DETAILS]
-Console level........................... : INFO (1)
+﻿[PLUGIN DETAILS] tes
 Console size............................ : 4.34 KB
 Last Migration Run...................... : 2020-02-15 14:34
 Last Rating Count....................... : 2020-02-15 14:34
